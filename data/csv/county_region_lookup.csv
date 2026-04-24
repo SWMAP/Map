@@ -1,0 +1,21 @@
+county_name,county_code,region_name,region_code,slug
+Derbyshire,E10000007,East Midlands,E12000004,derbyshire
+Leicestershire,E10000018,East Midlands,E12000004,leicestershire
+Lincolnshire,E10000019,East Midlands,E12000004,lincolnshire
+Cambridgeshire,E10000003,East of England,E12000006,cambridgeshire
+Essex,E10000012,East of England,E12000006,essex
+Hertfordshire,E10000015,East of England,E12000006,hertfordshire
+Norfolk,E10000020,East of England,E12000006,norfolk
+Suffolk,E10000029,East of England,E12000006,suffolk
+Lancashire,E10000017,North West,E12000002,lancashire
+East Sussex,E10000011,South East,E12000008,east-sussex
+Hampshire,E10000014,South East,E12000008,hampshire
+Kent,E10000016,South East,E12000008,kent
+Oxfordshire,E10000025,South East,E12000008,oxfordshire
+Surrey,E10000030,South East,E12000008,surrey
+West Sussex,E10000032,South East,E12000008,west-sussex
+Devon,E10000008,South West,E12000009,devon
+Gloucestershire,E10000013,South West,E12000009,gloucestershire
+Staffordshire,E10000028,West Midlands,E12000005,staffordshire
+Warwickshire,E10000031,West Midlands,E12000005,warwickshire
+Worcestershire,E10000034,West Midlands,E12000005,worcestershire
