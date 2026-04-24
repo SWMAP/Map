@@ -1,0 +1,11 @@
+*.pdf
+*.py
+*.npy
+*.png
+*.pyc
+__pycache__/
+Datasets/
+*.ipynb
+*.csv.bak
+*.geojson.bak
+*.backup
